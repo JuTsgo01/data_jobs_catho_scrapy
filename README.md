@@ -16,4 +16,4 @@
 * Algumas vagas não apresentam a faixa salarial que irá oferecer aos participantes, então coube a mim fazer um minuncioso trabalho de pesquisa dos as faixas salarias de alguns cargos e muitas vezes pesquisar especificamente a faixa salarial ofertada em uma determinada empresa.
 
 
-[![Pré-visualização do Dashboard](data_jobs_catho_scrapy/Captura de tela 2024-09-03 133213.png)]([https://public.tableau.com/profile/SeuUsuario#!/vizhome/SeuDashboard](https://public.tableau.com/app/profile/clodoaldo.lucio/viz/Data_jobs2/Painel1))
+[![Pré-visualização do Dashboard](./Captura%20de%20tela%202024-09-03%20133213.png)](https://public.tableau.com/app/profile/clodoaldo.lucio/viz/Data_jobs2/Painel1)
