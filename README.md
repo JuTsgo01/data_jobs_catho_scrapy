@@ -15,7 +15,7 @@
 
 * Algumas vagas não apresentam a faixa salarial que irá oferecer aos participantes, então coube a mim fazer um minuncioso trabalho de pesquisa dos as faixas salarias de alguns cargos e muitas vezes pesquisar especificamente a faixa salarial ofertada em uma determinada empresa.
 
-## Segue imagem do Dashboard. (Para ir ao Dashboard interativo, clique na imagem para ir a minha publicação no Dashboard)
+## Segue imagem do Dashboard. (Para ir ao Dashboard interativo, clique na imagem para ir a minha publicação no Dashboard):
 
 
 [![Pré-visualização do Dashboard](./Captura%20de%20tela%202024-09-03%20133213.png)](https://public.tableau.com/app/profile/clodoaldo.lucio/viz/Data_jobs2/Painel1)
